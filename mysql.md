@@ -33,10 +33,5 @@
     结尾加上 CHARSET=utf8
 ```
 ***
-### xshell
->运行node.js文件关闭xshell也能运行
 
-  1. node   .js &
-  2. disown
-    3. 查看node进程 ps -ef | grep node
 
