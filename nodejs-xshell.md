@@ -19,3 +19,4 @@
   1. node   .js &
   2. disown
   3. 查看node进程 ps -ef | grep node
+  4. 用端口号查看进程 netstat -nlp | grep 端口号 
