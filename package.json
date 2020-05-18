@@ -1,0 +1,23 @@
+{
+  "name": "node-mixed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangzhuozhang/node-mixed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangzhuozhang/node-mixed/issues"
+  },
+  "homepage": "https://github.com/zhangzhuozhang/node-mixed#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
