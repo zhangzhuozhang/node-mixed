@@ -31,6 +31,8 @@
     show create table 表名；
 * 解决表格中中文乱码情况
     结尾加上 CHARSET=utf8
+* 给表格加一列
+    alter table TABLE_NAME add column NEW_COLUMN_NAME varchar(45) not null;
 ```
 ***
 
